@@ -1,4 +1,4 @@
-package com.tejas;
+package com.coder;
 import java.util.Scanner;
 
 public.class GameCode {
